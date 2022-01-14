@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Suryaproject</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="title_activity_location">Location</string>
+    <string name="enter_your_location">Enter your location</string>
+    <string name="enter_your_destination">Enter your Destination</string>
+    <string name="display_track">Display Track</string>
+</resources>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1032503489122",
+    "project_id": "suryaproject-e1265",
+    "storage_bucket": "suryaproject-e1265.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1032503489122:android:ee0f67960bad320b12d73b",
+        "android_client_info": {
+          "package_name": "com.surya.suryaproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1032503489122-jfrjh4h9tdqq8tfirigq5a7rnmqre2oc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMFak0B43GVQnALay9Cngn_5rhBHW_uY4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1032503489122-jfrjh4h9tdqq8tfirigq5a7rnmqre2oc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
